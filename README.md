@@ -26,6 +26,10 @@
 
 ![metrika](./metrika.png)
 
+6. Файлы, потенциально блокирующие загрузку
+
+![blocking](./blocking.png)
+
 ## Performance
 
 Сохраним trace.json после того как записали его на вкладке Performance
